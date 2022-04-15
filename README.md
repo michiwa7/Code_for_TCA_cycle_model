@@ -17,7 +17,7 @@ In line 10, initial values for all metabolites, enzymes, and sensitivities are g
 
 ### sensitivity_tca_26.m
 
-Ordinary differential equations for the TCA cycle model and sensitivity equations for the perturbation of isocitrate dehydrogenase, where sensitivity equations were derived by the symbolic differential function in MATLAB software.
+Ordinary differential equations for the TCA cycle model and sensitivity equations for the perturbation of isocitrate dehydrogenase, where sensitivity equations were derived by the symbolic differentiation function in MATLAB software.
 
 ### sensitivity_tca_x26.txt
 
