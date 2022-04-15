@@ -2,7 +2,7 @@ clear all
 
 index = 26; % X_26 correspondss to isocitrate dehydrogenase in the TCA cycle model
 
-filename = sprintf('ensitivity_tca_x%d.txt', index);
+filename = sprintf('sensitivity_tca_x%d.txt', index);
 
 for t_end = [0.01 0.05 0.1 0.5 1.0 15.0 0.5*60 1*60 3*60 6*60 12*60 24*60 48*60]
 
